@@ -1,6 +1,6 @@
-### Hey There <img src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/wave.gif" width="30px"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=sagarchoudhary96.sagarchoudhary96) 
+### Hey There <img src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/wave.gif" width="30px"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=sagarchoudhary96.sagarchoudhary96)
 
-I'm [Sagar Choudhary](https://www.linkedin.com/in/sagarchoudhary96), an **Enthusiastic Full-stack Developer**  👨🏻‍💻 aspiring to become an expert in the field of **mobile** and **web** development. I’m also an **open-source** enthusiast with all of my projects open-sourced on [Github](https://www.github.com/sagarchoudhary96).
+I'm [Sagar Choudhary](https://www.linkedin.com/in/sagarchoudhary96), an **Enthusiastic Full-Stack Developer** 👨🏻‍💻 aspiring to become an **Expert** in the field of **Mobile** and **Web** development. I’m also an **Open-Source** enthusiast with all of my projects open-sourced on [Github](https://www.github.com/sagarchoudhary96).
 <br/>
 <img align="right" alt="coding User Image" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/code.png" height="250" />
 
@@ -16,11 +16,12 @@ I'm [Sagar Choudhary](https://www.linkedin.com/in/sagarchoudhary96), an **Enthus
 
 - ♥️ Travelling🌍 and Gaming 🎮
 
-- ✈️ Open to Remote Opportunities.
+- ✈️ Open to Remote Job Opportunities
 
 <br/>
 
 ### I Mostly Work With
+
 <br/>
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -37,7 +38,6 @@ I'm [Sagar Choudhary](https://www.linkedin.com/in/sagarchoudhary96), an **Enthus
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
-
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
@@ -62,12 +62,14 @@ I'm [Sagar Choudhary](https://www.linkedin.com/in/sagarchoudhary96), an **Enthus
 
 **NOTE:** Most Used Languages is just a GitHub metric of languages in which i have the most code on GitHub.
 
+<p align="center">
 <a href="https://github.com/sagarchoudhary96">
-  <img height="200px" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=sagarchoudhary96&include_all_commits=true&count_private=true&show_icons=true&theme=dark" />
+  <img height="200px"width="55%" align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=sagarchoudhary96&include_all_commits=true&count_private=true&show_icons=true&theme=default_repocard&hide_border=true" />
 </a>
 <a href="https://github.com/sagarchoudhary96">
-  <img align="right" height="200px" alt="top languages stats" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarchoudhary96&hide=java&langs_count=8&layout=compact&theme=dark" />
+  <img height="200px" width="40%" alt="top languages stats" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarchoudhary96&hide=java&langs_count=8&layout=compact&theme=default_repocard&hide_border=true" />
 </a>
+</p>
 
 <br/>
 
@@ -103,3 +105,4 @@ I'm [Sagar Choudhary](https://www.linkedin.com/in/sagarchoudhary96), an **Enthus
 <img align="left" width="28" alt="Sagar Choudhary Mail" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/gmail.svg" />
 </a>
 
+<br />
