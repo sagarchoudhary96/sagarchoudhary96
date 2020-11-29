@@ -62,11 +62,11 @@ I'm [Sagar Choudhary](https://www.linkedin.com/in/sagarchoudhary96), an **Enthus
 
 **NOTE:** Most Used Languages is just a GitHub metric of languages in which i have the most code on GitHub.
 
-<a href="https://github.com/sagarchoudhary96" target='_blank'>
-  <img height="200px" alt="github stats" align="center" src="https://github-readme-stats.vercel.app/api?username=sagarchoudhary96&include_all_commits=true&count_private=true&show_icons=true&theme=dark" />
+<a href="https://github.com/sagarchoudhary96">
+  <img height="200px" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=sagarchoudhary96&include_all_commits=true&count_private=true&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/sagarchoudhary96" target='_blank'>
-  <img height="200px" alt="top languages stats" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarchoudhary96&hide=java&langs_count=8&layout=compact&theme=dark" />
+<a href="https://github.com/sagarchoudhary96">
+  <img align="right" height="200px" alt="top languages stats" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarchoudhary96&hide=java&langs_count=8&layout=compact&theme=dark" />
 </a>
 
 <br/>
@@ -75,31 +75,31 @@ I'm [Sagar Choudhary](https://www.linkedin.com/in/sagarchoudhary96), an **Enthus
 
 <br/>
 
-<a href='https://www.linkedin.com/in/sagarchoudhary96' target='_blank'>
+<a href='https://www.linkedin.com/in/sagarchoudhary96'>
 <img align="left" alt="Sagar Choudhary Linkedin" width="28" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/linkedin.svg" />
 </a>
 
-<a href='https://www.github.com/sagarchoudhary96' target='_blank'>
+<a href='https://www.github.com/sagarchoudhary96'>
 <img align="left" alt="Sagar Choudhary Github" width="28" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/github.svg" />
 </a>
 
-<a href='https://www.twitter.com/sa_choudhary' target='_blank'>
+<a href='https://www.twitter.com/sa_choudhary'>
 <img align="left" alt="Sagar Choudhary Twitter" width="28" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/twitter.svg" />
 </a>
 
-<a href='https://discord.gg/J9mh7TrDAR' target='_blank'>
+<a href='https://discord.gg/J9mh7TrDAR'>
 <img align="left" alt="Sagar Choudhary Discord" width="28" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/discord.svg" />
 </a>
 
-<a href='https://www.instagram.com/sagarchoudhary96' target='_blank'>
+<a href='https://www.instagram.com/sagarchoudhary96'>
 <img align="left" alt="Sagar Choudhary Instagram" width="28" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/instagram.svg" />
 </a>
 
-<a href='https://t.me/sagarchoudhary96' target='_blank'>
+<a href='https://t.me/sagarchoudhary96'>
 <img align="left" width="28" alt="Sagar Choudhary Telegram" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/telegram.svg" />
 </a>
 
-<a href='mailto:sagar.choudhary96@gmail.com' target='_blank'>
+<a href="mailto:sagar.choudhary96@gmail.com">
 <img align="left" width="28" alt="Sagar Choudhary Mail" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/gmail.svg" />
 </a>
 
