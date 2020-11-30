@@ -1,5 +1,7 @@
 ### Hey There <img src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/wave.gif" width="30px"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=sagarchoudhary96.sagarchoudhary96)
 
+<br/>
+
 I'm [Sagar Choudhary](https://www.linkedin.com/in/sagarchoudhary96), an **Enthusiastic Full-Stack Developer** 👨🏻‍💻 aspiring to become an **Expert** in the field of **Mobile** and **Web** development. I’m also an **Open-Source** enthusiast with all of my projects open-sourced on [Github](https://www.github.com/sagarchoudhary96).
 <br/>
 <img align="right" alt="coding User Image" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/code.png" height="250" />
@@ -106,3 +108,8 @@ I'm [Sagar Choudhary](https://www.linkedin.com/in/sagarchoudhary96), an **Enthus
 </a>
 
 <br />
+<br />
+
+<p align="center">
+<a href="https://buymeacoff.ee/sagarchoudhary" target="_blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</p>
