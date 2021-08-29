@@ -4,7 +4,7 @@
 
 I'm [Sagar Choudhary](https://www.linkedin.com/in/sagarchoudhary96), an **Enthusiastic Full-Stack Developer** 👨🏻‍💻 aspiring to become an **Expert** in the field of **Mobile** and **Web** development. I’m also an **Open-Source** enthusiast with all of my projects open-sourced on [Github](https://www.github.com/sagarchoudhary96).
 <br/>
-<img align="right" alt="coding User Image" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/code.png" height="210" />
+<img align="right" alt="coding User Image" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/code.png" height="250" />
 
 - 📌 Living in **Gurugram, India**
 
