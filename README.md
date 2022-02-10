@@ -1,4 +1,4 @@
-### Hey There <img src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/wave.gif" width="30px"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=sagarchoudhary96.sagarchoudhary96)
+### Hey There <img src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/wave.gif" width="30px"> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sagarchoudhary96.sagarchoudhary96)
 
 <br/>
 
