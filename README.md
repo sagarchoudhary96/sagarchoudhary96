@@ -8,7 +8,7 @@ I'm [Sagar Choudhary](https://www.linkedin.com/in/sagarchoudhary96), an **Enthus
 
 - 📌 Living in **Gurugram, India**
 
-- 👨‍💻 Currently Working as **Senior Software Engineer** @[Upraised](https://www.upraised.co/)
+- 👨‍💻 Currently Working as **Full-Stack Developer**
 
 - 🎓 Mentor @[FullStack Camp - Frontbench](https://github.com/frontbenchHQ)
 
