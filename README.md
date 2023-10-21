@@ -68,7 +68,7 @@ I'm [Sagar Choudhary](https://www.linkedin.com/in/sagarchoudhary96), an **Enthus
 
 <p align="center">
 <a href="https://github.com/sagarchoudhary96">
-  <img height="200px"width="55%" align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=sagarchoudhary96&include_all_commits=true&count_private=true&show_icons=true&theme=default_repocard&hide_border=true" />
+  <img height="200px"width="55%" align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=sagarchoudhary96&include_all_commits=true&count_private=true&show_icons=true&theme=default_repocard&hide_border=true&rank_icon=github" />
 </a>
 <a href="https://github.com/sagarchoudhary96">
   <img height="200px" width="40%" alt="top languages stats" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarchoudhary96&hide=java&langs_count=8&layout=compact&theme=default_repocard&hide_border=true" />
