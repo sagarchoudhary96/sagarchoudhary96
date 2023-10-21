@@ -1,10 +1,10 @@
-### Hey There <img src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/wave.gif" width="30px" height="30px"> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sagarchoudhary96.sagarchoudhary96)
+### Hey There <img src="https://github.com/sagarchoudhary96/sagarchoudhary96/assets/16102594/7657a6d3-5258-43e2-ac7e-0ff362a77b84" width="30px" height="30px"> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sagarchoudhary96.sagarchoudhary96)
 
 <br/>
 
 I'm [Sagar Choudhary](https://www.linkedin.com/in/sagarchoudhary96), an **Enthusiastic Full-Stack Developer** 👨🏻‍💻 aspiring to become an **Expert** in the field of **Mobile** and **Web** development. I’m also an **Open-Source** enthusiast with all of my projects open-sourced on [Github](https://www.github.com/sagarchoudhary96).
 <br/>
-<img align="right" alt="coding User Image" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/code.png" height="250" />
+<img align="right" alt="coding User Image" src="https://github.com/sagarchoudhary96/sagarchoudhary96/assets/16102594/a48de136-47e5-4868-a076-84855c02bd37" height="250" />
 
 - 📌 Living in **Gurugram, India**
 
@@ -82,31 +82,31 @@ I'm [Sagar Choudhary](https://www.linkedin.com/in/sagarchoudhary96), an **Enthus
 <br/>
 
 <a href='https://www.linkedin.com/in/sagarchoudhary96'>
-<img align="left" alt="Sagar Choudhary Linkedin" width="28" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/linkedin.svg" />
+<img align="left" alt="Sagar Choudhary Linkedin" width="28" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
 </a>
 
 <a href='https://www.github.com/sagarchoudhary96'>
-<img align="left" alt="Sagar Choudhary Github" width="28" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/github.svg" />
+<img align="left" alt="Sagar Choudhary Github" width="28" src="https://cdn.simpleicons.org/github/181717" />
 </a>
 
 <a href='https://www.twitter.com/sa_choudhary'>
-<img align="left" alt="Sagar Choudhary Twitter" width="28" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/twitter.svg" />
+<img align="left" alt="Sagar Choudhary Twitter" width="28" src="https://cdn.simpleicons.org/x/000000" />
 </a>
 
 <a href='https://discord.gg/J9mh7TrDAR'>
-<img align="left" alt="Sagar Choudhary Discord" width="28" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/discord.svg" />
+<img align="left" alt="Sagar Choudhary Discord" width="28" src="https://cdn.simpleicons.org/discord/5865F2" />
 </a>
 
 <a href='https://www.instagram.com/sagarchoudhary96'>
-<img align="left" alt="Sagar Choudhary Instagram" width="28" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/instagram.svg" />
+<img align="left" alt="Sagar Choudhary Instagram" width="28" src="https://cdn.simpleicons.org/instagram/E4405F" />
 </a>
 
 <a href='https://t.me/sagarchoudhary96'>
-<img align="left" width="28" alt="Sagar Choudhary Telegram" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/telegram.svg" />
+<img align="left" width="28" alt="Sagar Choudhary Telegram" src="https://cdn.simpleicons.org/telegram/26A5E4" />
 </a>
 
 <a href="mailto:sagar.choudhary96@gmail.com">
-<img align="left" width="28" alt="Sagar Choudhary Mail" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/gmail.svg" />
+<img align="left" width="28" alt="Sagar Choudhary Mail" src="https://cdn.simpleicons.org/gmail/EA4335" />
 </a>
 
 <br />
