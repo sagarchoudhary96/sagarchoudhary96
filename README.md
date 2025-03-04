@@ -2,7 +2,9 @@
 
 <br/>
 
-I'm [Sagar Choudhary](https://www.linkedin.com/in/sagarchoudhary96), an **Enthusiastic Full-Stack Developer** 👨🏻‍💻 aspiring to become an **Expert** in the field of **Mobile** and **Web** development. I’m also an **Open-Source** enthusiast with all of my projects open-sourced on [Github](https://www.github.com/sagarchoudhary96).
+I'm [Sagar Choudhary](https://www.linkedin.com/in/sagarchoudhary96), a **Full-Stack Developer** 👨🏻‍💻 with **7 years** of experience building and scaling **Web** and **Mobile** applications. I specialize in developing **high-performance solutions** for complex real-world problems with seamless **user experience**, leveraging my deep expertise in modern technologies and architectures. 
+<br /><br/>
+**Top Skills:** TypeScript | React | Next.js | Node.js | Javascript | Golang
 <br/>
 <img align="right" alt="coding User Image" src="https://github.com/sagarchoudhary96/sagarchoudhary96/assets/16102594/a48de136-47e5-4868-a076-84855c02bd37" height="250" />
 
