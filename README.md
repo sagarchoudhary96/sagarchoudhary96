@@ -16,7 +16,7 @@ I'm [Sagar Choudhary](https://www.linkedin.com/in/sagarchoudhary96), an **Enthus
 
 - 📝 Project Validator @[Indorse](https://indorse.io/)
 
-- ♥️ Travelling🌍 and Gaming 🎮
+- ♥️ Travelling 🌍 and Gaming 🎮
 
 - ✈️ Open to Remote Job Opportunities
 
