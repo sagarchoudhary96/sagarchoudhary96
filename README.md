@@ -6,7 +6,7 @@ I'm [Sagar Choudhary](https://www.linkedin.com/in/sagarchoudhary96), an **Enthus
 <br/>
 <img align="right" alt="coding User Image" src="https://github.com/sagarchoudhary96/sagarchoudhary96/assets/16102594/a48de136-47e5-4868-a076-84855c02bd37" height="250" />
 
-- 📌 Living in **Gurugram, India**
+- 📌 Living in **Dubai, UAE 🇦🇪**
 
 - 👨‍💻 Currently Working as **Full-Stack Developer**
 
