@@ -84,7 +84,7 @@ I'm [Sagar Choudhary](https://www.linkedin.com/in/sagarchoudhary96), a **Full-St
 <br/>
 
 <a href='https://www.linkedin.com/in/sagarchoudhary96'>
-<img align="left" alt="Sagar Choudhary Linkedin" width="28" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
+<img align="left" alt="Sagar Choudhary Linkedin" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
 <a href='https://www.github.com/sagarchoudhary96'>
