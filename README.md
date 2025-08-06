@@ -12,8 +12,6 @@ I'm [Sagar Choudhary](https://www.linkedin.com/in/sagarchoudhary96), a **Full-St
 
 - 👨‍💻 Currently Working as **Full-Stack Developer**
 
-- 🎓 Mentor @[FullStack Camp - Frontbench](https://github.com/frontbenchHQ)
-
 - 💻 Mentor and Project Reviewer @[Udacity](https://www.udacity.com/)
 
 - 📝 Project Validator @[Indorse](https://indorse.io/)
