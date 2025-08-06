@@ -27,13 +27,13 @@ I'm [Sagar Choudhary](https://www.linkedin.com/in/sagarchoudhary96), a **Full-St
 ### I Mostly Work With
 
 <br/>
-
+<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"></code>
 <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
 <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></code>
 <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"></code>
 <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg"></code>
-<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"></code>
+<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"></code>
 <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
 <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"></code>
 <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
@@ -46,6 +46,7 @@ I'm [Sagar Choudhary](https://www.linkedin.com/in/sagarchoudhary96), a **Full-St
 
 <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"></code>
 <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"></code>
+<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"></code>
 <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></code>
 <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"></code>
 <code><img height="35" src="https://cdn.simpleicons.org/supabase/3FCF8E"></code>
