@@ -2,7 +2,7 @@
 
 <br/>
 
-I'm [Sagar Choudhary](https://www.linkedin.com/in/sagarchoudhary96), a **Full-Stack Developer** 👨🏻‍💻 with **8 years** of experience building and scaling **Web** and **Mobile** applications. I specialize in developing **high-performance solutions** for complex real-world problems with seamless **user experience**, leveraging my deep expertise in modern technologies and architectures. 
+I'm [Sagar Choudhary](https://www.linkedin.com/in/sagarchoudhary96), a **Full-Stack Developer** 👨🏻‍💻 with **8+ years** of experience building and scaling **Web** and **Mobile** applications. I specialize in developing **high-performance solutions** for complex real-world problems with seamless **user experience**, leveraging my deep expertise in modern technologies and architectures. 
 <br /><br/>
 **Top Skills:** TypeScript | React | Next.js | Node.js | Javascript | Golang
 <br/>
